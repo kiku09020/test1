@@ -1,0 +1,31 @@
+.a-logo{
+				padding: 5px 100px;
+				color: #4169e1;
+				background-color: #f8f8ff;
+				width: 145px;
+				height: 80px;
+}
+h6{
+				padding: 0px 25px 0px 0px;
+}
+
+.a-button{
+				padding: 0px 50px 30px 0px;
+}
+li{
+				list-style: none;
+				float: left;
+				padding: 0px 8px;
+}
+
+p{
+				font-size: 9px;
+}
+
+.p-a{
+				font-size: 17px;
+}
+
+.c{
+				border-style: dotted;
+}
